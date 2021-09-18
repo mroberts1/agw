@@ -5,11 +5,11 @@ id: home
 permalink: /
 ---
 
-# Greetings! 🌱
+### Greetings! 🌱
 
 Take a look at
 
-<span style="font-weight: bold">[[Your first note]]</span>
+<span style="font-weight: uppercase">[[Your first note]]</span>
 
 to get started on your exploration.
 
