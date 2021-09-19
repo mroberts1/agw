@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "d8c7b406b7c6d7f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab3736d0149c719",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "improve my thinking.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0f29c29d8762cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c68cdbe366eb523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e21167d5b18731f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c4580749b538df3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53d8873cc2c60850",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d2fceab97b3d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9428e5197aad778d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "improve my thinking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4ab3736d0149c719",
+  "lastOpenFiles": [
+    "improve my thinking.md",
+    "my new digital garden.md",
+    "consistency.md",
+    "Untitled.md"
+  ]
+}
