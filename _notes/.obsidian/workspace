@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "improve my thinking.md",
+            "file": "your-first-note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "improve my thinking.md",
+                "file": "your-first-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,10 @@
   },
   "active": "4ab3736d0149c719",
   "lastOpenFiles": [
-    "improve my thinking.md",
+    "your-first-note.md",
     "my new digital garden.md",
+    "cats.md",
+    "improve my thinking.md",
     "consistency.md",
     "Untitled.md"
   ]
